@@ -1,0 +1,7 @@
+repo/
+out/
+fakeplug/
+fakeout/
+__pycache__/
+*.pyc
+.venv/
