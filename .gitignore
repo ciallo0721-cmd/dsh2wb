@@ -2,6 +2,7 @@ repo/
 out/
 fakeplug/
 fakeout/
+.tmp-real/
 __pycache__/
 *.pyc
 .venv/
